@@ -12,8 +12,8 @@
     
     <h2>Dividion</h2>
     <form action="division.php" method="get">
-      First number: <input type="number" name="div_first">
-      Second number: <input type="number" name="div_second">
+      First number: <input type="number" name="div_first"><br>
+      Second number: <input type="number" name="div_second"><br>
       <button type="submit">DIVIDE</button>
     </form>
 
